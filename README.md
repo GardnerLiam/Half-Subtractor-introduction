@@ -1,2 +1,2 @@
-# Half-Subtractor-introduction
-A small paper that derives the half-subtractor from scratch, as well as introduces a new subtraction method using modular arithmetic.
+# The Engineering of Subtraction
+A small paper that derives the half-adder, full-adder, half-subtractor, full-subtractor and introduces two's complement, along with a new (at least to me) subtraction method called modular subtraction
